@@ -1,4 +1,4 @@
-# Crawler Project Overview: Comprehensive Python, Web Crawling, Automation, and Data Analysis Tutorial
+# Crawler: Comprehensive Python, Web Crawling, Automation, and Data Analysis
 
 ## Part 1: Python Basics and Web Crawling
  
